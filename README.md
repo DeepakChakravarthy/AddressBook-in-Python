@@ -9,7 +9,7 @@ File Opener
 Place the Main File and the bg Picture in the Same Location To Run the Addressbook
 
 **SCREEN SHOT**
-![ScreenShot](https://drive.google.com/open?id=1lSWcjaBquD71vfwh31aAmdo5ZA90Ghpe)
+![ScreenShot](https://github.com/DeepakChakravarthy/AddressBook-in-Python/blob/master/screenshot.png)
 
 Once Contact are Saved Addressbook Creates an File Called User.bat 
 
